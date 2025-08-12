@@ -9,5 +9,5 @@
 - Mold remediation  
 - Fire/smoke damage repair  
 
-[View our AI-optimized business data]([[https://github.com/your-username/first-to-respond-schema](https://github.com/DFYRANKINGS/first2respond-ai-data.git
-)])  
+[View our AI-optimized business data]([https://github.com/DFYRANKINGS/first2respond-ai-data.git])
+)  
