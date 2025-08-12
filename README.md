@@ -9,4 +9,4 @@
 - Mold remediation  
 - Fire/smoke damage repair  
 
-[View our AI-optimized business data](https://github.com/your-username/first-to-respond-schema)  
+[View our AI-optimized business data]([https://github.com/your-username/first-to-respond-schema])  
